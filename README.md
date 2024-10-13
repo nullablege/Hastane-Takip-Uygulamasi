@@ -1,5 +1,6 @@
 Hastane Yönetim Sistemi
 C#'ile Murat Yücedağ Hocamın sayesinde yapmış olduğum bir çalışma. Baka baka değil kendim yaptığım bir proje.
+NOT : Kullanmak için HastaneProje.bacpac isimli Veritabanının kurulumunu yapmalısınız.
 Özellikler : 
 Sekreter / Doktor / Hasta Girişleri mevcut. 
 SQL Tablosundan Doğrulanarak giriş yapılmaktadır.
@@ -12,9 +13,8 @@ Hem Sekreter hem Hasta randevu alacağı yada oluşturacağı sırada Branşlar 
 
 Hospital Management System
 A project I developed with the help of Murat Yücedağ using C#. This is not something I copied; it's a project I created myself.
-
+NOTE: You need to install the database with the name HastaneProje.bacpac to use it
 Features:
-
 Secretary / Doctor / Patient logins available.
 Login is validated from an SQL table.
 The Secretary can open available appointments for doctors, and patients can book those available appointments.

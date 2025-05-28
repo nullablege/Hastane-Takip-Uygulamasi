@@ -1,6 +1,6 @@
 # 🏥 Hastane Takip Uygulaması - Kapsamlı C# Yönetim Paneli
 
-![Hastane Takip Uygulaması Tanıtım](https://i.imgur.com/YOUR_IMAGE_ID.png) <!-- Buraya uygulamanızın genel bir tanıtım ekran görüntüsünü yükleyip linkini ekleyebilirsiniz. Şimdilik yer tutucu olarak bırakıyorum. -->
+![Screenshot_9](https://github.com/user-attachments/assets/d7437685-12ab-4d6c-9662-3a194597d193)!-- Buraya uygulamanızın genel bir tanıtım ekran görüntüsünü yükleyip linkini ekleyebilirsiniz. Şimdilik yer tutucu olarak bırakıyorum. -->
 
 **Hastane Takip Uygulaması**, C# programlama dili ve .NET Framework kullanılarak geliştirilmiş, **Windows Forms tabanlı kapsamlı bir hastane yönetim sistemidir.** Bu uygulama, hastane operasyonlarını dijitalleştirerek Hasta, Doktor ve Sekreter rolleri için özel olarak tasarlanmış, kullanıcı dostu arayüzler ve zengin işlevler sunar. SQL Server veritabanı ile entegre çalışarak veri bütünlüğünü ve güvenliğini sağlar.
 
